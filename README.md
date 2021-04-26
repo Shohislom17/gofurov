@@ -1,0 +1,2 @@
+# gofurov
+Andijon Raqamli shaharlar
